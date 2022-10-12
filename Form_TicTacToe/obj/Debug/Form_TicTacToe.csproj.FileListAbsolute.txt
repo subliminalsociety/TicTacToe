@@ -1,0 +1,11 @@
+C:\Users\cmen1\RiderProjects\.ProgrammingTutorialProjects\Form_TicTacToe\Form_TicTacToe\bin\Debug\Form_TicTacToe.exe.config
+C:\Users\cmen1\RiderProjects\.ProgrammingTutorialProjects\Form_TicTacToe\Form_TicTacToe\bin\Debug\Form_TicTacToe.exe
+C:\Users\cmen1\RiderProjects\.ProgrammingTutorialProjects\Form_TicTacToe\Form_TicTacToe\bin\Debug\Form_TicTacToe.pdb
+C:\Users\cmen1\RiderProjects\.ProgrammingTutorialProjects\Form_TicTacToe\Form_TicTacToe\obj\Debug\Form_TicTacToe.csproj.AssemblyReference.cache
+C:\Users\cmen1\RiderProjects\.ProgrammingTutorialProjects\Form_TicTacToe\Form_TicTacToe\obj\Debug\Form_TicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\cmen1\RiderProjects\.ProgrammingTutorialProjects\Form_TicTacToe\Form_TicTacToe\obj\Debug\Form_TicTacToe.Properties.Resources.resources
+C:\Users\cmen1\RiderProjects\.ProgrammingTutorialProjects\Form_TicTacToe\Form_TicTacToe\obj\Debug\Form_TicTacToe.csproj.GenerateResource.cache
+C:\Users\cmen1\RiderProjects\.ProgrammingTutorialProjects\Form_TicTacToe\Form_TicTacToe\obj\Debug\Form_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\cmen1\RiderProjects\.ProgrammingTutorialProjects\Form_TicTacToe\Form_TicTacToe\obj\Debug\Form_TicTacToe.exe
+C:\Users\cmen1\RiderProjects\.ProgrammingTutorialProjects\Form_TicTacToe\Form_TicTacToe\obj\Debug\Form_TicTacToe.pdb
+C:\Users\cmen1\RiderProjects\.ProgrammingTutorialProjects\Form_TicTacToe\Form_TicTacToe\obj\Debug\Form_TicTacToe.MainForm.resources
