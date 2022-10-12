@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -78,8 +78,31 @@ namespace Form_TicTacToe {
                     winner = "X";
                 }
 
-                MessageBox.Show($@"The winner is {winner}! Click OK to restart the game.");
-                Restart();
+                var result = MessageBox.Show($@"The winner is {winner}!", $@"{winner} wins!", MessageBoxButtons.RetryCancel);
+                
+                if (result == DialogResult.Retry) {
+                    Restart();
+                } else if (result == DialogResult.Cancel) {
+                    Application.Exit();
+                }
+                else {
+                    MessageBox.Show(@"How did you get here?", @"You are a clever exploiter.");
+                    Application.Exit();
+                }
+
+            }
+
+            
+            if (!thereIsAWinner && _turnCount == 9) {
+                var result = MessageBox.Show(@"It was a tie!", @"Tie!", MessageBoxButtons.RetryCancel);
+                if (result == DialogResult.Retry) {
+                    Restart();
+                } else if (result == DialogResult.Cancel) {
+                    Application.Exit();
+                }else {
+                    MessageBox.Show(@"How did you get here?", @"You are a clever exploiter.");
+                    Application.Exit();
+                }
             }
 
             
